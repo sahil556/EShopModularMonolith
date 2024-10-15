@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basket", "Modules\Basket\Ba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordering", "Modules\Ordering\Ordering\Ordering.csproj", "{311C3164-0BA3-465F-B5DF-7610A1D5175D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared\Shared.csproj", "{DE252E20-CD04-44D1-B94A-6745C2421F38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{311C3164-0BA3-465F-B5DF-7610A1D5175D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{311C3164-0BA3-465F-B5DF-7610A1D5175D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{311C3164-0BA3-465F-B5DF-7610A1D5175D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE252E20-CD04-44D1-B94A-6745C2421F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE252E20-CD04-44D1-B94A-6745C2421F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE252E20-CD04-44D1-B94A-6745C2421F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE252E20-CD04-44D1-B94A-6745C2421F38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -57,6 +63,7 @@ Global
 		{47A54BD2-2CD1-47E3-A57E-A8565B0DA5BB} = {943FE365-50D6-4C70-BE4E-B2E470662FEE}
 		{D6969643-2FF2-455A-A7EF-58B9C32535D6} = {29579765-27DB-4980-8AD8-812DB1219FFE}
 		{311C3164-0BA3-465F-B5DF-7610A1D5175D} = {9DAB0BD5-5170-4558-BA8D-D442CFC7A769}
+		{DE252E20-CD04-44D1-B94A-6745C2421F38} = {65299EED-DAF5-4CA2-8166-8FC73E12FCAB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F09F5285-62A7-4D05-B7D5-BB964543BD50}
